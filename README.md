@@ -1,3 +1,3 @@
 # PlotSPDSn
-empty local repository
+empty local repository\
 `пустышка для отслеживания изменений`
