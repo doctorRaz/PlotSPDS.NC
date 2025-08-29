@@ -14,20 +14,15 @@
     - открытых чертежей;
     - **чертежей из заданной директории;**
 - "экспорт" форматов из модели в листы (через видовые экраны)
-- Настройки печати листов создаются на основании устройств печати и стилей определенных в \
-шаблоне, шаблоны общие для печати на "Бумагу" и настроек печати для листов
 
-<details><summary> </summary>
+<details><summary>Картинки</summary>
 <p>
-
 
 <img width="697" height="536" alt="image" src="https://github.com/user-attachments/assets/e6af9e1e-ccec-4cb5-a0de-103142306ea1" />
 
-<img width="437" height="378" alt="image" src="https://github.com/user-attachments/assets/151e807f-d72c-42d0-a85d-1b0c818b885a" />
+<img width="437" height="378" alt="image" src="https://github.com/user-attachments/assets/151e807f-d72c-42d0-a85d-1b0c818b885a" /> \
 
 <img width="329" height="360" alt="image" src="https://github.com/user-attachments/assets/e1dd1c1c-dece-4ee6-aeb3-2afead9aa1bd" />
-
-
 
 </p>
 </details> 
