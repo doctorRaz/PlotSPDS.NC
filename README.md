@@ -1,4 +1,4 @@
-# PlotSPDSn
+# PlotSPDS.NC
 
 ## Автоматическая печать из nanoCAD (форматы СПДС)
 
